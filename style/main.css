@@ -22,7 +22,7 @@ h1.title {
   margin: 0;
   display: block;
   float: left; 
-  color: white;}
+  color: #FF0000;}
 
 @-webkit-keyframes move-up {
   0% {
