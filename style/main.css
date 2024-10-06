@@ -2,10 +2,12 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
-  color: #776e65;
+  background: url('CSIABG.png') no-repeat center center fixed; /* Add this line */
+  background-size: cover; /* Ensure the image covers the whole background */
+  color: #000000;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px; }
+  font-size: 18px;
+
 
 body {
   margin: 80px 0; }
@@ -16,11 +18,12 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: bold;
   margin: 0;
   display: block;
-  float: left; }
+  float: left; 
+  color: white;}
 
 @-webkit-keyframes move-up {
   0% {
@@ -543,7 +546,8 @@ hr {
 
   h1.title {
     font-size: 27px;
-    margin-top: 15px; }
+    margin-top: 15px;
+    color: white;}
 
   .container {
     width: 280px;
