@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url('CSIABG.png') no-repeat center center fixed; /* Add this line */
+  background: #2b2a28 url('CSIABG.png') no-repeat center center fixed; /* Add this line */
   background-size: cover; /* Ensure the image covers the whole background */
   color: #000000;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
