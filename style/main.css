@@ -517,7 +517,8 @@ hr {
 .game-intro {
   float: left;
   line-height: 42px;
-  margin-bottom: 0; }
+  margin-bottom: 0; 
+  color: #FFFFFF; }
 
 .restart-button {
   display: inline-block;
